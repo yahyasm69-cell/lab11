@@ -20,3 +20,4 @@ def find_lowercase_vowel(msg: str):
     return len(msg)
 
 print("Testing webhook")
+print("Hello from Jenkins!")
